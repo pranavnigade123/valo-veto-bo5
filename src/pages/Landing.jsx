@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const teams = ['Sentinels', 'Fnatic', 'Paper Rex', 'LOUD', 'Optic Gaming', 'Team Liquid', 'DRX'];
+const teams = ['S1MPS','No Fear', 'Pune Rivals'];
 
 export default function Landing() {
   const [teamA, setTeamA] = useState('');

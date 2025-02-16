@@ -39,7 +39,7 @@ export default function Results() {
 
       <button
         onClick={() => navigate('/')}
-        className="mt-6 px-6 py-2 bg-blue-600 hover:bg-blue-800 rounded transition"
+        className="mt-6 px-6 py-2 bg-blue-600 text-white hover:bg-blue-800 rounded transition"
       >
         Start New Veto
       </button>
